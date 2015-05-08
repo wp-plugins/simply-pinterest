@@ -3,12 +3,12 @@ Contributors: terriann
 Donate link: http://terriswallow.com/
 Tags: pinterest, marketing, social media, button, click, hover, image, images, photo, photos, pin it, pinit, social
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 1
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simply Pinterest - a WordPress Plugin is a WordPress plugin designed to be light weight, easy to use while achieving one goal: making it easy for your visitors to share your content on Pinterest.
+Simply Pinterest is a free & open source WordPress plugin designed to be light weight and easy to use with one goal: making it easy for your visitors to share your content on Pinterest.
 
 == Description ==
 
@@ -17,11 +17,11 @@ More and more bloggers are seeing success in traffic from Pinterest. We've even 
 This plugin creates a prominent call to action over your each image in your post to prompt visitors to Pin your content. The window to save your content to their board is in a pop-up so they never leave your site.
 The button uses the default Pinterest button that users identify with sharing their favorite content across the web. It also includes the number of times that post has been shared which can help a popular post go viral by making it obvious to your users that other people love it too!
 
-=== Battling Bad Source URLs ===
+= Battling Bad Source URLs =
 
 Even when the Pinterest button is triggered from your home page, search or archives the Pin is credited to the permalink page of your content automatically. This way the traffic comes to the page they were looking for straight from Pinterest.
 
-=== Customize Settings ====
+= Customize Settings =
 
 This plugin does the following:
 
@@ -38,7 +38,7 @@ If you're looking for an easy way to pin images in your blog posts and pages, th
 
 == Installation ==
 
-1. Upload the `better-pinterest-plugin/` directory to the `/wp-content/plugins/` directory
+1. Upload the `simply-pinterest/` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in your installation of WordPress
 3. Configure the settings in the menu under Settings > Pinterest Settings
 
@@ -56,16 +56,21 @@ When you upload an image through WordPress you are prompted to add a "descriptio
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. See the Pinterest Pin it button in action over a blog post image
+2. Under Settings > Pinterest Setting you'll find a number of options to choose for your default settings
+3. Change a specific image's settings by clicking the edit button (pencil) in the WordPress post or page visual editor
+4. The Pin wil use the description in your image's "Title" or "Alt" fields as set through your WordPress admin.
+5. Advanced settings allow you to prevent an image from being pinned and changing the display of the button to force it to show or force it to only show on mouseover (which will override your default setting for that image only)
+6. The Pin it button makes sure your post's permalink is pinned no matter what page it's pinned from and pre-populates the pin with the image that was selected and the "Title" or "Alt" text as set in the WordPress Admin.
+7. Prevent all images on a specific page or post from being pinned by checking the "Disable Pin it Button" in the admin editor
 
 == Changelog ==
 
-= v1.0-rc.1 =
-Initial release
+= v1.1 =
+First release version of the plugin in the WordPress Plugin Directory!
 
 = v1.0-rc.2 =
 Add configuration to use !important CSS when necessary due to conflicts with other plugins/themes
+
+= v1.0-rc.1 =
+Initial release
