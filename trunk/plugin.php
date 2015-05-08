@@ -3,7 +3,7 @@
 Plugin Name: Simply Pinterest
 Plugin URI: https://github.com/terriann/betterpinterestplugin
 Description: Simply Pinterest is a WordPress plugin designed to be light weight, easy to use while achieving one goal: making it easy for your visitors to share your content on Pinterest. This plugin puts a Pinterest button over the corner of each image with customizabele options making it clear & easy for your visitors to share your content with their followers.
-Version: 1.0.2
+Version: 1.1
 Author: Terri Ann Swallow
 Author URI: http://terriswallow.com/
 License: GPLv2
