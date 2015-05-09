@@ -8,24 +8,24 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simply Pinterest is a free & open source WordPress plugin designed to be light weight and easy to use with one goal: making it easy for your visitors to share your content on Pinterest.
+Automatically add a Pin It button on every image. This light weight and easy to use plugin has one goal: making it easy for your visitors to share your content on Pinterest with no short codes necessary.
 
 == Description ==
 
-More and more bloggers are seeing success in traffic from Pinterest. We've even heard that for some bloggers Pinterest is beating out Google as their top referer. Make it easy and obvious your visitors should share your content.
+With Simply Pinterest make it easy and obvious your visitors should share your content.
 
-This plugin creates a prominent call to action over your each image in your post to prompt visitors to Pin your content. The window to save your content to their board is in a pop-up so they never leave your site.
-The button uses the default Pinterest button that users identify with sharing their favorite content across the web. It also includes the number of times that post has been shared which can help a popular post go viral by making it obvious to your users that other people love it too!
+This plugin adds a Pin It button call to action over your each image in your post to prompt visitors to Pin your content. The window to save your content to their board is in a pop-up so they never leave your site.
+The button uses the default Pinterest button that users identify with sharing their favorite content across the web. You can customize how the plugin is applied to your site with counts, colors & many other settings.
 
 = Battling Bad Source URLs =
 
-Even when the Pinterest button is triggered from your home page, search or archives the Pin is credited to the permalink page of your content automatically. This way the traffic comes to the page they were looking for straight from Pinterest.
+Even when the Pinterest button is triggered from your home page, search or archives the Pin is credited to the *permalink page* of your content automatically. This way the traffic comes to the page they were looking for straight from Pinterest.
 
 = Customize Settings =
 
 This plugin does the following:
 
-* Choose whether to show the Pin it button when a user hovers over your images or always. You can even customize this on specific images too!
+* Choose whether to show the Pin it button when a user hovers over your images or always. You can even override your default settings for specific images!
 * Lets you to customize the Pin it button color between Pinterest red, white & gray
 * Allows you to choose the button size (small or large) & position of the count bubble
 * Respects the same `no-pin="nopin"` attribute for your image tags, the same convention Pinterest uses, making it easy to prevent images you don't want Pinned from being Pinned
