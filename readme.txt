@@ -38,22 +38,24 @@ This plugin does the following:
 
 If you're looking for an easy way to pin images in your blog posts and pages, this plugin will help you with that. It highlights images and adds a "Pin it" button over them once the user hovers his mouse over an image. Once the user clicks the "Pin it" button, the plugin shows a pop-up window with the image and a description. Everything is ready for pinning, although the user can alter the description.
 
+[youtube https://www.youtube.com/edit?o=U&video_id=3NX6i3NHVao]
+
 == Installation ==
 
-##FTP Upload
+= FTP Upload =
 1. Dowload the plugin from the WordPress Plugin directory, search for "Simply Pinterest"
 1. Upload the `simply-pinterest/` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in your installation of WordPress
 3. Configure the settings in the menu under Settings > Pinterest Settings
 
-##Add Plugin Through the WordPress Admin
+= Add Plugin Through the WordPress Admin =
 1. In you admin go to the Plugins page
 2. Click "Add New"
 3. Search for "Simply Pinterest"
 4. Choose Simply Pinterest from the search results
 5. Click the "Install Now" button
 
-###Configuration
+= Configuration =
 Once you install the Simply Pinterest plugin simply activate it in the WordPRess plugin page and go to `Settings > Pinterest Settings` to set your defaults!
 
 
@@ -84,6 +86,8 @@ If you're technically inclined I also accept pull requests through GitHub, just 
 5. Advanced settings allow you to prevent an image from being pinned and changing the display of the button to force it to show or force it to only show on mouseover (which will override your default setting for that image only)
 6. The Pin it button makes sure your post's permalink is pinned no matter what page it's pinned from and pre-populates the pin with the image that was selected and the "Title" or "Alt" text as set in the WordPress Admin.
 7. Prevent all images on a specific page or post from being pinned by checking the "Disable Pin it Button" in the admin editor
+
+[youtube https://www.youtube.com/edit?o=U&video_id=3NX6i3NHVao]
 
 == Changelog ==
 
