@@ -89,6 +89,9 @@ File an issue in the [GitHub repo](https://github.com/terriann/Simply-Pinterest-
 
 If you're technically inclined I also accept pull requests through GitHub, just file an issue first so I know what you're proposing!
 
+= Will it Work with my Theme and Plugins? =
+It *should*. This plugin has been tested to work properly with the most popular themes, twenty fourteen, twnety fifteen, Genesis, Thesis. As well as other popular plugins. I cannot support every plugin and every theme but if you run into any isses please contact me and I'll work with you to help resolve any bugs in this plugin.
+
 == Screenshots ==
 
 1. See the Pinterest Pin it button in action over a blog post image
