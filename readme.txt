@@ -40,6 +40,16 @@ If you're looking for an easy way to pin images in your blog posts and pages, th
 
 [youtube https://www.youtube.com/watch?v=3NX6i3NHVao]
 
+= Coming Soon =
+
+Here's a couple ideas that are being built/tested for future updates!
+
+* Setting improvments (lighter HTML, faster load time)
+* Disable 0 count
+* Common plugin and theme support
+* Additional setting adjustments for individual images.  I hear you love the defaults but sometimes there's a certain miage that needs it's own customization!
+
+
 == Installation ==
 
 = FTP Upload =
@@ -101,3 +111,8 @@ Add configuration to use !important CSS when necessary due to conflicts with oth
 
 = v1.0-rc.1 =
 Initial release
+
+== Upgrade Notice ==
+
+= v1.1 =
+Update to the first public release of the Simply Pinterest plugin
