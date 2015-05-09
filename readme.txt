@@ -38,7 +38,7 @@ This plugin does the following:
 
 If you're looking for an easy way to pin images in your blog posts and pages, this plugin will help you with that. It highlights images and adds a "Pin it" button over them once the user hovers his mouse over an image. Once the user clicks the "Pin it" button, the plugin shows a pop-up window with the image and a description. Everything is ready for pinning, although the user can alter the description.
 
-[youtube https://www.youtube.com/edit?o=U&video_id=3NX6i3NHVao]
+[youtube https://www.youtube.com/watch?v=3NX6i3NHVao]
 
 == Installation ==
 
@@ -57,6 +57,8 @@ If you're looking for an easy way to pin images in your blog posts and pages, th
 
 = Configuration =
 Once you install the Simply Pinterest plugin simply activate it in the WordPRess plugin page and go to `Settings > Pinterest Settings` to set your defaults!
+
+[youtube https://www.youtube.com/watch?v=3NX6i3NHVao]
 
 
 == Frequently Asked Questions ==
@@ -87,7 +89,7 @@ If you're technically inclined I also accept pull requests through GitHub, just 
 6. The Pin it button makes sure your post's permalink is pinned no matter what page it's pinned from and pre-populates the pin with the image that was selected and the "Title" or "Alt" text as set in the WordPress Admin.
 7. Prevent all images on a specific page or post from being pinned by checking the "Disable Pin it Button" in the admin editor
 
-[youtube https://www.youtube.com/edit?o=U&video_id=3NX6i3NHVao]
+[youtube https://www.youtube.com/watch?v=3NX6i3NHVao]
 
 == Changelog ==
 
